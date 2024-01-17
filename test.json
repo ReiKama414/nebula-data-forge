@@ -1,0 +1,27 @@
+{
+	"place_id": 202512824,
+	"licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+	"osm_type": "node",
+	"osm_id": 11060055991,
+	"lat": "23.0542392",
+	"lon": "120.1991124",
+	"class": "place",
+	"type": "house",
+	"place_rank": 30,
+	"importance": 9.99999999995449e-6,
+	"addresstype": "place",
+	"name": "",
+	"display_name": "256號, 總原五街, 總頭里, 安南區, 臺南市, 709, 臺灣",
+	"address": {
+		"house_number": "256號",
+		"road": "總原五街",
+		"suburb": "總頭里",
+		"town": "安南區",
+		"city": "臺南市",
+		"ISO3166-2-lvl4": "TW-TNN",
+		"postcode": "709",
+		"country": "臺灣",
+		"country_code": "tw"
+	},
+	"boundingbox": ["23.0541892", "23.0542892", "120.1990624", "120.1991624"]
+}
